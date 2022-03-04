@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thorlabs_rotation_v1", "Thorlabs_rotation_v1\Thorlabs_rotation_v1.csproj", "{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}.Debug|x64.ActiveCfg = Debug|x64
+		{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}.Debug|x64.Build.0 = Debug|x64
+		{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}.Release|x64.ActiveCfg = Release|x64
+		{452BFFC8-F37B-4E9F-A152-39BBABBC6EF8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7199F32-FEA7-4857-9D1F-95F66B26CCFF}
+	EndGlobalSection
+EndGlobal
